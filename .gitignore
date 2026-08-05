@@ -1,0 +1,10 @@
+flood_env/
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.keras
+data/raw/
+data/processed/
+outputs/
+saved_models/

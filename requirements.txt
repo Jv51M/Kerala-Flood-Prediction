@@ -1,0 +1,27 @@
+# ── Backend (FastAPI)
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+requests==2.32.3
+openmeteo-requests==0.3.0
+requests-cache==1.2.1
+retry-requests==2.0.0
+python-multipart==0.0.9
+
+# ── ML / Data
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+joblib==1.4.2
+
+# ── Models
+tensorflow==2.17.0
+torch==2.4.0
+
+# ── Frontend
+streamlit==1.38.0
+folium==0.17.0
+streamlit-folium==0.22.0
+
+# ── Geospatial
+scipy==1.13.1
